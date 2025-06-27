@@ -25,6 +25,8 @@ public class Application {
                     String Titolo = print.nextLine();
                     System.out.println("Anno: ");
                     int AnnoPubblicazione = Integer.parseInt(print.nextLine());
+                    System.out.println("Prezzo: ");
+                    double Prezzo = Double.parseDouble(print.nextLine());
             }
 
         }
